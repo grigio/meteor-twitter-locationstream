@@ -32,6 +32,8 @@ if (Meteor.isClient) {
       'en': '#3CB371',
       'es': '#9370DB',
       'fr': '#AFEEEE',
+      'de': '#F7BB2F',
+      'it': '#2F6BF7',
       'ru': '#F0E68C'
     }
 
